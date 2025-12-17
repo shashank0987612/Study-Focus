@@ -1,0 +1,7 @@
+{
+  "name": "God Mode - Study & Focus",
+  "description": "A premium, glassmorphism-styled productivity suite featuring gamified focus timer, analytics, study tools, and ambient environments.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
